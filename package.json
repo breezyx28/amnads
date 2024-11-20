@@ -9,14 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "apexcharts": "^4.0.0",
+    "bootstrap": "^5.3.3",
+    "flatpickr": "^4.6.13",
+    "jquery": "^3.7.1",
+    "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "select2": "^4.1.0-rc.0",
+    "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@types/jquery": "^3.5.32",
+    "@types/jqueryui": "^1.12.23",
     "@types/node": "^20",
     "@types/react": "^18",
-    "@types/react-dom": "^18"
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5"
   }
 }

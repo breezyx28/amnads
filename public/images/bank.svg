@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="bank" transform="translate(-720 -331)">
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="48" height="48" transform="translate(720 331)" fill="#03d2da"/>
+    <g id="bank-2" data-name="bank" transform="translate(735 344.75)">
+      <g id="Combo_shape" data-name="Combo shape">
+        <path id="_6A0AF1D6-9EA8-4030-820E-5ED19CDE3A65" data-name="6A0AF1D6-9EA8-4030-820E-5ED19CDE3A65" d="M1.033,8H18.967a1.057,1.057,0,0,0,.572-1.929L11.144.354a2.026,2.026,0,0,0-2.288,0L.461,6.071A1.057,1.057,0,0,0,1.033,8Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="_43AB770D-FDB7-4E41-863F-3921E6128C08" data-name="43AB770D-FDB7-4E41-863F-3921E6128C08" d="M0,0H3V5H0Z" transform="translate(3.5 9.5)" fill="#fff"/>
+        <path id="_7BB8DC32-92E6-45CE-A869-4651A327351F" data-name="7BB8DC32-92E6-45CE-A869-4651A327351F" d="M3,0H0V5H3Z" transform="translate(13.5 9.5)" fill="#fff"/>
+        <path id="_2301A657-58AA-401D-B9B0-92EA232BBFCD" data-name="2301A657-58AA-401D-B9B0-92EA232BBFCD" d="M0,0H3V5H0Z" transform="translate(8.5 9.5)" fill="#fff"/>
+        <path id="_21013348-E6D6-4A4A-8564-D539A5478C0A" data-name="21013348-E6D6-4A4A-8564-D539A5478C0A" d="M17.66.553A1,1,0,0,0,16.765,0H2a1,1,0,0,0-.894.553l-1,2A1,1,0,0,0,1,4H17.765a1,1,0,0,0,.894-1.447Z" transform="translate(0.617 16)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

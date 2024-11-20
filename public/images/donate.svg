@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="donate" transform="translate(0 -5)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="28" cy="28" r="28" transform="translate(0 5)" fill="#e8feff"/>
+    <g id="donate_coin" data-name="donate coin" transform="translate(17.474 24.146)">
+      <path id="Union" d="M18.709,9.354a4.677,4.677,0,1,0-4.677-4.677A4.677,4.677,0,0,0,18.709,9.354ZM0,4.677H1.849a2.338,2.338,0,0,1,.937.2L9.661,7.881a2.237,2.237,0,0,1,.885,3.4l3.173,2.012a7.017,7.017,0,0,0,3.138.741h1.852a2.339,2.339,0,0,1,0,4.677H9.224a9.355,9.355,0,0,1-4.183-.988L0,15.2Z" fill="#03d2da" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="card-arrow" transform="translate(0 -5)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="28" cy="28" r="28" transform="translate(0 5)" fill="#ffe3ec"/>
+    <g id="card_arrow_left" data-name="card arrow left" transform="translate(16.236 22.37)">
+      <path id="Combo_shape" data-name="Combo shape" d="M22.6,3.685A4.537,4.537,0,0,0,18.142,0H4.535A4.537,4.537,0,0,0,.08,3.685Zm.08,1.7V8.22H0V5.386ZM0,9.921H22.677v2.551a1.134,1.134,0,0,1-1.134,1.134h-3.4a4.535,4.535,0,0,0-4.535,4.535v1.134a1.134,1.134,0,0,1-1.134,1.134H4.535A4.535,4.535,0,0,1,0,15.874Zm5.669,5.953A1.134,1.134,0,1,1,4.535,14.74,1.134,1.134,0,0,1,5.669,15.874Zm13.738.6-.816.816h4.086a.85.85,0,1,1,0,1.7H18.591l.816.816a.85.85,0,1,1-1.2,1.2l-1.466-1.466a1.984,1.984,0,0,1,0-2.806L18.2,15.273a.85.85,0,1,1,1.2,1.2Z" fill="#ffa2c0" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
